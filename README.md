@@ -1,0 +1,2 @@
+# MyBlog
+Spring-Hibernate webapplication
