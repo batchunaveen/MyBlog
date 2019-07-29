@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-public class FlashCardController {
+public class FlashCardsController {
 
     @Autowired
     public FlashCardsRepository flashCardsRepository;
