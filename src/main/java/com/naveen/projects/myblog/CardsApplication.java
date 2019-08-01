@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @EnableAutoConfiguration
-public class FlashCardsApplication {
+public class CardsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FlashCardsApplication.class, args);
+		SpringApplication.run(CardsApplication.class, args);
 	}
 
 }
