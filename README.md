@@ -16,6 +16,7 @@ Steps
         1. show dbs
         2. show collections
         ...
+    7. docker system prune -a --volumes (to remove all the images, volumes)    
 
 Rest API
     using lombok 
