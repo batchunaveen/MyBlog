@@ -1,4 +1,4 @@
-# MyBlog
+# RestApp using MongoDB database
  
 Rest API using Spring boot and MongoDB 
 
