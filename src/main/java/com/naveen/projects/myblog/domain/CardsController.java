@@ -2,7 +2,6 @@ package com.naveen.projects.myblog.domain;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 import java.util.Optional;
 
@@ -23,7 +22,7 @@ public class CardsController {
         return "{ \"isWorking\" : true }";
     }
 
-    @RequestMapping(value = "/all", method = RequestMethod.GET)
+    @RequestMapping(value = "/", method = RequestMethod.GET)
     public List<Card> retrieveAllFlashCards() {
         return cardsRepository.findAll();
     }

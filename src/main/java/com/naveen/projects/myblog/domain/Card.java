@@ -16,8 +16,9 @@ public class Card {
 
 
 
-    @Id
+
     public ObjectId _id;
+    @Id
     private String id;
     private Integer type;
     private String front;
