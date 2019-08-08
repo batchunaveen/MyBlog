@@ -1,4 +1,4 @@
-package com.naveen.projects.myblog.domain;
+package com.naveen.projects.myblog;
 
 
 import org.bson.types.ObjectId;

@@ -1,7 +1,5 @@
 package com.naveen.projects.myblog;
 
-import com.naveen.projects.myblog.domain.Card;
-import com.naveen.projects.myblog.domain.CardsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
