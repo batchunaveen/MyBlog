@@ -1,3 +1,4 @@
+/*
 package com.naveen.projects.myblog;
 
 import org.junit.Test;
@@ -14,3 +15,4 @@ public class MyblogApplicationTests {
 	}
 
 }
+*/
